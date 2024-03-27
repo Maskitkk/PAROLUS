@@ -1,0 +1,10 @@
+C:\Users\User\Documents\projects\PAROLUS\PAROLUS\bin\Debug\PAROLUS.exe.config
+C:\Users\User\Documents\projects\PAROLUS\PAROLUS\bin\Debug\PAROLUS.exe
+C:\Users\User\Documents\projects\PAROLUS\PAROLUS\bin\Debug\PAROLUS.pdb
+C:\Users\User\Documents\projects\PAROLUS\PAROLUS\obj\Debug\PAROLUS.csproj.AssemblyReference.cache
+C:\Users\User\Documents\projects\PAROLUS\PAROLUS\obj\Debug\PAROLUS.FormPAROLUS.resources
+C:\Users\User\Documents\projects\PAROLUS\PAROLUS\obj\Debug\PAROLUS.Properties.Resources.resources
+C:\Users\User\Documents\projects\PAROLUS\PAROLUS\obj\Debug\PAROLUS.csproj.GenerateResource.cache
+C:\Users\User\Documents\projects\PAROLUS\PAROLUS\obj\Debug\PAROLUS.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\projects\PAROLUS\PAROLUS\obj\Debug\PAROLUS.exe
+C:\Users\User\Documents\projects\PAROLUS\PAROLUS\obj\Debug\PAROLUS.pdb
